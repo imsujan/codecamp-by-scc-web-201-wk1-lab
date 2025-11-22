@@ -275,15 +275,15 @@ If you finish early, try adding:
 
 ## 👤 Student Info
 
-**Name:** [Sujan Maharjan]  
-**Cohort:** [codecamp-by-scc-web-201-wk1-lab]  
-**Live Demo:** [https://cc-sujan-maharjan-week1.web.app/]  
-**GitHub Repo:** [https://github.com/imsujan/codecamp-by-scc-web-201-wk1-lab]
+**Name:** Sujan Maharjan  
+**Cohort:** codecamp-by-scc-web-201-wk1-lab
+**Live Demo:** https://cc-sujan-maharjan-week1.web.app/ 
+**GitHub Repo:** https://github.com/imsujan/codecamp-by-scc-web-201-wk1-lab
 
 ## 🎯 What I Learned
 
-1. [Add your learnings here after completing the lab]
-2.
+1. Forking and Cloning a Github Repo
+2. 
 3.
 
 ---

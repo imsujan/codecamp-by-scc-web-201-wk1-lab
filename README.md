@@ -275,10 +275,10 @@ If you finish early, try adding:
 
 ## 👤 Student Info
 
-**Name:** Sujan Maharjan  
-**Cohort:** codecamp-by-scc-web-201-wk1-lab
-**Live Demo:** https://cc-sujan-maharjan-week1.web.app/ 
-**GitHub Repo:** https://github.com/imsujan/codecamp-by-scc-web-201-wk1-lab
+**Name:** [Sujan Maharjan]  
+**Cohort:** [codecamp-by-scc-web-201-wk1-lab]
+**Live Demo:** [https://cc-sujan-maharjan-week1.web.app/]
+**GitHub Repo:** [https://github.com/imsujan/codecamp-by-scc-web-201-wk1-lab]
 
 ## 🎯 What I Learned
 

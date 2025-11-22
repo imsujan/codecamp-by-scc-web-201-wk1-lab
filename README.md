@@ -283,9 +283,12 @@ If you finish early, try adding:
 ## 🎯 What I Learned
 
 1. Forking and Cloning a Github Repo
-2. 
-3.
-
+2. Configure basic Node Js, Git
+3. Creating Firebase host and deploy
+4. Editing Basic Typescript files
+5. Github repo forking, commiting
+6. Maintaining a readme file in Github
+   
 ---
 
 ## 📜 License
